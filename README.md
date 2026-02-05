@@ -8,7 +8,7 @@
 ---
 
 # 🌵 2. Gran cañón
-![Imagen del Cañón](Gran-cañon.png)
+![Imagen del Cañón](GranCañon.png)
 **Licencia:** `CC BY-NC` (Atribución - No Comercial)
 > Puedes compartir y modificar esta imagen, pero **no puedes ganar dinero** con ella.
 
